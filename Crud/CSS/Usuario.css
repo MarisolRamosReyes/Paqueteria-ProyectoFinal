@@ -1,0 +1,293 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+body
+{
+  text-align: center;
+  font-family: sans-serif;
+}
+.head
+{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 63px;
+  background: #ffffff;
+  position:fixed;
+  width: 100%;
+  z-index: 100;
+}
+.navbar
+{
+  display: flex;
+  margin-right: 10px;
+}
+.logo
+{
+  margin-left: 30px;
+}
+.logo a
+{
+  text-decoration: none;
+  color:#233b6b;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+.navbar a
+{
+  display: block;
+  padding: 20px 20px;
+  color: #b37a1f;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+.navbar a:hover
+{
+  background: #f3d9c4;
+}
+.header
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: url(../img/header.png) no-repeat center ;
+  background-size: cover;
+}
+.title1
+{
+  font-family: Impact, sans-serif;
+  margin-bottom: 40px;
+  font-size: 100px;
+  font-weight: 600px;
+  /*font-weight: bold;*/
+  text-transform: uppercase;
+  color:#080707;
+}
+.title
+{
+  margin-bottom: 40px;
+  font-size: 60px;
+  font-weight: 600px;
+  text-transform: uppercase;
+  color:#c09c0f;
+}
+p
+{
+  margin-bottom: 40px;
+  font-size: 18px;
+  color:#30260e;
+  padding: 0 100px;
+}
+
+.btn
+{
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 40px;
+  border: 2px solid #c98550;
+  color: #fff;
+  text-decoration: none;
+  background: #ce8b57;
+}
+.btn:hover
+{
+  background: none;
+}
+.content
+{
+  height: 65vh;
+  display: flex;
+  flex-direction:  column;
+  justify-content: center;
+  align-items: center;
+}
+.sau
+{
+  padding: 50px 0;
+  background: #ffffff;
+}
+.box-container
+{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.box-container .box
+{
+  height: 170px;
+  width: 270px;
+  background: #171717;
+  text-align: center;
+  border-radius: 20px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, .3);
+  margin: 20px;
+}
+.box-container .box i
+{
+  height: 50px;
+  width: 50px;
+  line-height: 50px;
+  text-align: 50px;
+  border-radius: 50%;
+  color:#fff;
+  background: #e98e1e;
+  font-size:25px;
+  margin: 10px 0;
+}
+.box-container .box h3{
+  font-size: 20px;
+  color:#e98e1e;
+}
+
+.box-container .box p
+{
+  padding: 0 15px;
+  font-size: 16px;
+}
+.price
+{
+  background: url(../img/paqueteriaFodo.jpg) no-repeat center ;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+}
+.about
+{
+  background: #ffffff;
+  padding: 50px 0;
+}
+
+.box-container2
+{
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  flex-wrap: wrap;
+}
+.box-container2 .box
+{
+  width: 250px; 
+  padding-bottom: 20px;
+  text-align: center;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, .3);
+  background: #dfbb80;
+  margin: 20px 20px;
+}
+.box-container2 .box img
+{
+  height: 100px;
+  width: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-top: -50px;
+  border: 6px solid #e9541e;
+}
+.box-container2 .box h3
+{
+  font-size: 20px;
+  color:#3955c5;
+  padding-top:  10px;
+}
+.box-container2 .box p
+{
+  font-size: 15px;
+  color:#30260e;
+  padding: 0;
+}
+.box-container2 .box .stars i 
+{
+  font-size: 15px;
+  color:#cf7f06;
+}
+.footer-section
+{
+  display: flex;
+}
+.contact
+{
+  padding: 50px 0;
+  background: #ffffff;
+}
+.f-enlaces
+{
+  display: flex;
+  flex-direction: column;
+  margin: 0 100px;
+}
+.f-enlaces a
+{
+  color:#fff;
+  text-decoration: none;
+  margin-top: 20px;
+
+}
+@media (max-width:768px)
+{
+  p
+  {
+      padding: 0 50px;
+
+  };
+  .title
+  {
+      margin-bottom: 0px;
+      font-size: 40px;
+  }
+  .sau
+  {
+      height: 80vh;
+      padding: 50px 0;
+  }
+  .footer-section
+  {
+      display: flex;
+      flex-direction: column;
+  }
+  .f-enlaces
+  {
+      display: none;
+  }
+  .navbar
+  {
+      display: none;
+  }
+
+}
+.dropdwon
+{
+  display: inline-block;
+  position: relative;
+}
+.dropdwon-content
+{
+  display: none;
+  position: absolute;
+  width: 100%;
+  overflow: auto;
+  box-shadow: 0px 10px 10px 0px
+  rgba(0,0,0,0.4);
+}
+.dropdwon:hover .dropdwon-content
+{
+  display: block;
+}
+.dropdwon-content a{
+  display: block;
+  color: #000000;
+  padding: 5px;
+  text-decoration: none;
+}
+.dropdwon-content a:hover
+{
+  color: #ffffff;
+  background-color: #00A4BD;
+}
+
+

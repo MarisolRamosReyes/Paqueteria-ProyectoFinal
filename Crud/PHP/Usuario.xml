@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <registro>
+  <IdUsuario>11</IdUsuario>
+  <Nombre>Genaro Ruben</Nombre>
+  <ApellidoPaterno>Saucedo </ApellidoPaterno>
+  <ApellidoMaterno>Espinoza</ApellidoMaterno>
+  <Correo>Ruben@hotmail.com</Correo>
+  <Contraseña>$2y$10$4hZiOXHImFI/HsyHz5gZSer3/i.8RWMu/qMTDV23.Nw</Contraseña>
+ </registro>
+ <registro>
+  <IdUsuario>13</IdUsuario>
+  <Nombre>Yael Jesus</Nombre>
+  <ApellidoPaterno>Reyes</ApellidoPaterno>
+  <ApellidoMaterno>Martinez</ApellidoMaterno>
+  <Correo>Yael@hotmail.com</Correo>
+  <Contraseña>$2y$10$kyza8WNNZTm2tDVLjy1iUe3SUP7DlbwYJtJDBtNx8Mi</Contraseña>
+ </registro>
+ <registro>
+  <IdUsuario>15</IdUsuario>
+  <Nombre>Brandon</Nombre>
+  <ApellidoPaterno>Lugo</ApellidoPaterno>
+  <ApellidoMaterno>Costilla</ApellidoMaterno>
+  <Correo>Brandon@hotmail.com</Correo>
+  <Contraseña>$2y$10$N2L2eHN2eFqvX2HH75hrYuU33quX6hzX/MVRO1o9QOS</Contraseña>
+ </registro>
+ <registro>
+  <IdUsuario>17</IdUsuario>
+  <Nombre>Karen</Nombre>
+  <ApellidoPaterno>Robledo</ApellidoPaterno>
+  <ApellidoMaterno>Lugo</ApellidoMaterno>
+  <Correo>Karen@hotmail.com</Correo>
+  <Contraseña>$2y$10$bzRNgjIfJPLN9VNn7AaVtumG1A8H8/8XOZ7PRB0awBG</Contraseña>
+ </registro>
+ <registro>
+  <IdUsuario>18</IdUsuario>
+  <Nombre>Luis Antonio</Nombre>
+  <ApellidoPaterno>Cuevas </ApellidoPaterno>
+  <ApellidoMaterno>Perez</ApellidoMaterno>
+  <Correo>LuisAntonio@hotmail.com</Correo>
+  <Contraseña>$2y$10$w3YuVWaEN3fIhwKMTBcSCOI5VSRkrCDtzm0BLQ0FVDM</Contraseña>
+ </registro>
+</tabla>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <registro>
+  <IdRuta>3</IdRuta>
+  <Origen>Saltillo</Origen>
+  <Destino>Monterrey</Destino>
+  <Distancia>50</Distancia>
+  <Costo_de_Envio>500.00</Costo_de_Envio>
+  <Tiempo_de_entrega>2023-07-08 12:00:00</Tiempo_de_entrega>
+ </registro>
+ <registro>
+  <IdRuta>6</IdRuta>
+  <Origen>Mazatlan</Origen>
+  <Destino>Ciudad de Mexico</Destino>
+  <Distancia>122</Distancia>
+  <Costo_de_Envio>600.00</Costo_de_Envio>
+  <Tiempo_de_entrega>2023-06-14 12:10:00</Tiempo_de_entrega>
+ </registro>
+</tabla>

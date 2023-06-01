@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <registro>
+  <IdRemitente>1</IdRemitente>
+  <Nombre>Fernanda</Nombre>
+  <APaterno>Ramos </APaterno>
+  <AMaterno>Jaquez</AMaterno>
+  <Calle>Matamoros</Calle>
+  <Numero>76</Numero>
+ </registro>
+ <registro>
+  <IdRemitente>2</IdRemitente>
+  <Nombre>Genaro</Nombre>
+  <APaterno>Reyes</APaterno>
+  <AMaterno>Ortiz</AMaterno>
+  <Calle>Pino Suarez</Calle>
+  <Numero>854</Numero>
+ </registro>
+</tabla>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <registro>
+  <IdDestinatario>1</IdDestinatario>
+  <Nombre>Genaro Ruben</Nombre>
+  <APaterno>Ramos </APaterno>
+  <AMaterno>Jaquez</AMaterno>
+  <Calle>Victoria</Calle>
+  <Numero>97</Numero>
+ </registro>
+ <registro>
+  <IdDestinatario>3</IdDestinatario>
+  <Nombre>Esteban</Nombre>
+  <APaterno>Ramos</APaterno>
+  <AMaterno>Martinez</AMaterno>
+  <Calle>Malecon</Calle>
+  <Numero>521</Numero>
+ </registro>
+</tabla>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <registro>
+  <IdChofer>1</IdChofer>
+  <Nombre>Pablo Armando</Nombre>
+  <ApellidoPaterno>Ramirez</ApellidoPaterno>
+  <ApellidoMaterno>Ortiz</ApellidoMaterno>
+  <Celular>866-213-95-45</Celular>
+ </registro>
+ <registro>
+  <IdChofer>2</IdChofer>
+  <Nombre>Brandon</Nombre>
+  <ApellidoPaterno>Lugo</ApellidoPaterno>
+  <ApellidoMaterno>Costilla</ApellidoMaterno>
+  <Celular>866-213-95-45</Celular>
+ </registro>
+ <registro>
+  <IdChofer>3</IdChofer>
+  <Nombre>Enrique</Nombre>
+  <ApellidoPaterno>Ramos</ApellidoPaterno>
+  <ApellidoMaterno>Aguirre</ApellidoMaterno>
+  <Celular>866-152-35-41</Celular>
+ </registro>
+</tabla>

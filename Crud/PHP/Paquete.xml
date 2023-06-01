@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <registro>
+  <IdPaquete>1</IdPaquete>
+  <Usuario>Monica</Usuario>
+  <Destinatario>Genaro Ruben</Destinatario>
+  <Remitente>Marisol</Remitente>
+  <Chofer>Pablo Armando</Chofer>
+  <NumPaquete>34</NumPaquete>
+  <Peso>34</Peso>
+  <DimLargo>34</DimLargo>
+  <DimAncho>34</DimAncho>
+  <DimAltura>34</DimAltura>
+  <TipoRelleno>PET</TipoRelleno>
+ </registro>
+ <registro>
+  <IdPaquete>2</IdPaquete>
+  <Usuario>Marisol</Usuario>
+  <Destinatario>Genaro Ruben</Destinatario>
+  <Remitente>Marisol</Remitente>
+  <Chofer>Pablo Armando</Chofer>
+  <NumPaquete>9890</NumPaquete>
+  <Peso>23</Peso>
+  <DimLargo>34</DimLargo>
+  <DimAncho>34</DimAncho>
+  <DimAltura>34</DimAltura>
+  <TipoRelleno>Carton</TipoRelleno>
+ </registro>
+</tabla>

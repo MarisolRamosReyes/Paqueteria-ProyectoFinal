@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <registro>
+  <IdTransporte>1</IdTransporte>
+  <Modelo>camioneta-1</Modelo>
+  <Capacidad_de_Carga>1500</Capacidad_de_Carga>
+  <Año>2023-05-01</Año>
+  <Velocidad_Maxima>120</Velocidad_Maxima>
+  <Tipo_de_Combustible>Gasolina</Tipo_de_Combustible>
+ </registro>
+ <registro>
+  <IdTransporte>2</IdTransporte>
+  <Modelo>camioneta-2</Modelo>
+  <Capacidad_de_Carga>900</Capacidad_de_Carga>
+  <Año>2017-02-22</Año>
+  <Velocidad_Maxima>100</Velocidad_Maxima>
+  <Tipo_de_Combustible>Gasolina</Tipo_de_Combustible>
+ </registro>
+ <registro>
+  <IdTransporte>3</IdTransporte>
+  <Modelo>RAM-1</Modelo>
+  <Capacidad_de_Carga>500</Capacidad_de_Carga>
+  <Año>2022-11-14</Año>
+  <Velocidad_Maxima>1800</Velocidad_Maxima>
+  <Tipo_de_Combustible>Gasolina</Tipo_de_Combustible>
+ </registro>
+</tabla>

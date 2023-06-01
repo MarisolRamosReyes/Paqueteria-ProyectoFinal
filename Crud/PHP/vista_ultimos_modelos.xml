@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <registro>
+  <Modelo>camioneta-1</Modelo>
+  <Año>2023-05-01</Año>
+ </registro>
+ <registro>
+  <Modelo>RAM-1</Modelo>
+  <Año>2022-11-14</Año>
+ </registro>
+ <registro>
+  <Modelo>camioneta-2</Modelo>
+  <Año>2017-02-22</Año>
+ </registro>
+</tabla>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <registro>
+  <Origen>Monclova</Origen>
+  <Destino>Castaños</Destino>
+  <Distancia>23</Distancia>
+  <TiempoEntrega>2023-06-01 08:40:00</TiempoEntrega>
+ </registro>
+ <registro>
+  <Origen>Monclova</Origen>
+  <Destino>Castaños</Destino>
+  <Distancia>23</Distancia>
+  <TiempoEntrega>2023-06-08 10:17:00</TiempoEntrega>
+ </registro>
+</tabla>
